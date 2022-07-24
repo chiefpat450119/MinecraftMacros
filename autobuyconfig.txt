@@ -1,0 +1,15 @@
+2
+respawnbuy
+6
+wool,6
+ladder,1
+iron_sword,1
+golden_apple,2
+pickaxe,1
+axe,1
+shift + b
+triosrespawnbuy
+2
+wool,6
+pickaxe,1
+shift + v
